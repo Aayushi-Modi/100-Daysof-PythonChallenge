@@ -1,2 +1,2 @@
 # 100-Daysof-PythonChallenge
-this is test
+This is a challenge for myself to learn Python.

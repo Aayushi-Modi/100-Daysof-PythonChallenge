@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# 
 # "Aayushi Modi", remove all the vowels from this string and return the residual string.
 
 # In[55]:
